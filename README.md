@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MrGlockenspiel/MrGlockenspiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I do rust stuff, shader-related stuff, im writing a game launcher for a platform nobody would ever game on, I laugh at C++ developers, I cry while compiling things, and... yup, thats about it. 
