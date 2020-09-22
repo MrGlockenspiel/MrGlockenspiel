@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I do rust stuff, shader-related stuff, im writing a game launcher for a platform nobody would ever game on, I laugh at C++ developers, I cry while compiling things, and... yup, thats about it. 
+I'm making the Combustion Shader and a game launcher for a platform nobody would ever game on.
+
+Fun Fact: The mass of a quark is measured in electron-volts, which is the energy that an electron gains when it undergoes a potential difference of 1 Volt. Kinda weird that size is measured in energy isn't it? ~~should be fixed~~
