@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm making the Combustion Shader and a game launcher for a platform nobody would ever game on.
 
-Fun Fact: The mass of a quark is measured in electron-volts, which is the energy that an electron gains when it undergoes a potential difference of 1 Volt. Kinda weird that size is measured in energy isn't it? ~~should be fixed~~
+Fun Fact: The mass of a quark is measured in electron-volts, which is the energy that an electron gains when it undergoes a potential difference of 1 Volt. Kinda weird that mass is measured in energy isn't it? ~~should be fixed~~
