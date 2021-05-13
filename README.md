@@ -10,12 +10,12 @@ I suffer from:
  - Rust
  - Vulkan
  - GLSL
- - C#
+ - Assembly
  - C/C++
 
 Projects:
  - 3DE, an effort to use VKRT to fully ray trace every aspect of a Linux Desktop Environment
- - PSXify MC, a Minecraft shader made to emulate the PSX's shitty yet cool rendering "features"
+ - Way too many fucking Minecraft shaders
 
 Fun facts
  - The mass of a quark is measured in electron-volts, which is the energy that an electron gains when it undergoes a potential difference of 1 Volt. Kinda weird that mass is measured in energy isn't it? ~~should be fixed~~
